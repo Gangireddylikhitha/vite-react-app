@@ -34,3 +34,13 @@ return todos;
 }
 
 TodoLists();
+
+
+
+export const OddEven=()=>{
+   const arr=[]
+    for(let i=1;i<=100;i++){
+        arr.push(i)
+    }
+    return arr
+}

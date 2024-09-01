@@ -39,14 +39,14 @@ export function List1() {
 
 
 
-const CustomList=(prop)=>{
+export const CustomList=(prop)=>{
   const{list}=prop
   return(
       <ol>
       <>
       {
-      list.map((eachFruit,index)=>{
-          return <li key={index} >{eachFruit}</li>
+      list.map((eachValue,index)=>{
+          return <li key={index} >{eachValue}</li>
       })
       }
           </>
@@ -54,7 +54,7 @@ const CustomList=(prop)=>{
   )
 }
 
-export default CustomList
+
 
 
 

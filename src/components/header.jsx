@@ -9,6 +9,6 @@ export const Header=(prop)=>{
 export const Subhead=(prop)=>{
     const{heading}=prop
     return(
-        <h2>{heading}</h2>
+        <h3>{heading}</h3>
     )
 }
