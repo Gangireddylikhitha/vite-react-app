@@ -1,39 +1,39 @@
 
-export const Employees=[{
-    name:"likhitha",
-    designation:"frontend"
-},
-{
+// export const Employees=[{
+//     name:"likhitha",
+//     designation:"frontend"
+// },
+// {
 
-    name:"chaithra",
-    designation:"fullstack"
+//     name:"chaithra",
+//     designation:"fullstack"
 
-},
+// },
 
-{
-    name: "gangireddy                                                                                                                                                                                                                                                           "                                                                                                                                                                                                                           
-}
+// {
+//     name: "gangireddy                                                                                                                                                                                                                                                           "                                                                                                                                                                                                                           
+// }
 
-]
+// ]
 
 
-export const TodoLists=()=>{
-    const todos=[]
+// export const TodoLists=()=>{
+//     const todos=[]
 
-    for(let i=1;i<=10;i++){
+//     for(let i=1;i<=10;i++){
 
-        const myObject={
-            id:i,
-            text:`Item ${i}`,
-        }
-        todos.push(myObject)
-    }
-    console.log(todos)
-return todos;
+//         const myObject={
+//             id:i,
+//             text:`Item ${i}`,
+//         }
+//         todos.push(myObject)
+//     }
+//     console.log(todos)
+// return todos;
     
-}
+// }
 
-TodoLists();
+// TodoLists();
 
 
 
@@ -44,3 +44,4 @@ export const OddEven=()=>{
     }
     return arr
 }
+OddEven()

@@ -179,7 +179,8 @@ const loginapi=async(username,password)=>{
                                 <tr key={index}>
                                     <td>{user.username}</td>
                                     <td>{user.password}</td>
-                                     <td><button 
+                                     <td>
+                                      <button 
                                             className="btn btn-danger"
                                             onClick={() => deleteData(index)}> {/* Call deleteData on button click */}
                                             Delete
