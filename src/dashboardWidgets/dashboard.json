@@ -1,0 +1,89 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgetId": 101,
+        "widgetName": "Widget 1",
+        "widgetText": "This is Widget 1 text"
+      },
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgetId": 102,
+        "widgetName": "Widget 2",
+        "widgetText": "This is Widget 2 text"
+      },
+      {
+        "id": 2,
+        "name": "Finance Dashboard",
+        "widgetId": 201,
+        "widgetName": "Widget A",
+        "widgetText": "This is Widget A text"
+      },
+      {
+        "id": 2,
+        "name": "Finance Dashboard",
+        "widgetId": 202,
+        "widgetName": "Widget B",
+        "widgetText": "This is Widget B text"
+      },
+      {
+        "id": 3,
+        "name": "HR Dashboard",
+        "widgetId": 301,
+        "widgetName": "Widget X",
+        "widgetText": "This is Widget X text"
+      },
+      {
+        "id": 3,
+        "name": "HR Dashboard",
+        "widgetId": 302,
+        "widgetName": "Widget Y",
+        "widgetText": "This is Widget Y text"
+      },
+      {
+        "id": 4,
+        "name": "IT Dashboard",
+        "widgetId": 401,
+        "widgetName": "Widget Alpha",
+        "widgetText": "This is Widget Alpha text"
+      },
+      {
+        "id": 4,
+        "name": "IT Dashboard",
+        "widgetId": 402,
+        "widgetName": "Widget Beta",
+        "widgetText": "This is Widget Beta text"
+      },
+      {
+        "id": 5,
+        "name": "production Dashboard",
+        "widgetId": 501,
+        "widgetName": "Widget pros",
+        "widgetText": "This is Widget pros text"
+      },
+      {
+        "id": 5,
+        "name": "production Dashboard",
+        "widgetId": 502,
+        "widgetName": "Widget products",
+        "widgetText": "This is Widget products text"
+      },
+      {
+        "id": 6,
+        "name": "service Dashboard",
+        "widgetId": 401,
+        "widgetName": "Widget saas",
+        "widgetText": "This is Widget saas text"
+      },
+      {
+        "id": 6,
+        "name": "service Dashboard",
+        "widgetId": 402,
+        "widgetName": "Widget paas",
+        "widgetText": "This is Widget paas text"
+      }
+    ]
+  }
+  

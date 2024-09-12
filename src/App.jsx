@@ -1,6 +1,9 @@
 // import React, { useState } from 'react';
 import  React from "react"
-import Parent, { Example2, Example3 } from "./components/hooks/useMemo2";
+// import CustomHeart from "./components/icons/heart";
+// import Counter from "./components/hooks/exCustomhook";
+import {CounterWithLocalStorage} from "./components/hooks/exCustomhook";
+import Dashboard from "./dashboardWidgets/dashboard";
 // import TableData from "./components/table";
 // import { Form } from "./components/controlled-forms/form";
 // import EvenOdd from "./components/evenodd";
@@ -21,12 +24,11 @@ const App = () => {
   return (
 
 <>
+{/* <Counter/> */}
 
+<Dashboard/>
 
-<Parent/>
-<Example2/>
-<Example3/>
-
+{/* <CounterWithLocalStorage/> */}
 
 {/* <OddEven/> */}
 

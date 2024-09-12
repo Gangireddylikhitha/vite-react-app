@@ -10,6 +10,9 @@ const DisplayCard=()=>{
     <a href="#" className="btn btn-primary">
       Go 
     </a>
+
+
+    
   </div>
 </div>
 
